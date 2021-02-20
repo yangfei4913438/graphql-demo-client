@@ -1,0 +1,19 @@
+.edit {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px 260px;
+  overflow: auto;
+}
+
+.edit_form {
+  width: 800px;
+  height: 100%;
+}
+
+.edit_form_title {
+  height: 50px;
+  line-height: 50px;
+  font-weight: bold;
+  font-size: 18px;
+}
